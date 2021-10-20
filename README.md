@@ -1,4 +1,4 @@
-## rocket.Q
+## Admin-Question
 Projeto de site para administrar perguntas 
 que podem ser adicionadas por usuários.
 O administrador precisa ter uma senha numérica única para ativar 
